@@ -1,4 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MariaClDev/MariaClDev/assets/163427241/364eb1a7-251f-40e7-a57f-7358c95ebbe6"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MariaClDev/MariaClDev/assets/163427241/1a847add-80b4-4370-810b-b4c21e37297c"/>
+
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
