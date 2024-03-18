@@ -1,12 +1,15 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MariaClDev/MariaClDev/assets/163427241/1a847add-80b4-4370-810b-b4c21e37297c"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc4ed8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Maria+Clara;I'm+18+years+old;I+am+from+Guarulhos,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+
+
 
 <div align="center">  
  <img  height = "180em"  src="https://github-readme-stats.vercel.app/api?username=MariaClDev&show_icons=true&theme=jolly&count_private=true"/>
 </div>
+
 
 
  &nbsp;
