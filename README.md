@@ -5,7 +5,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div align="center">  
- <img  height = "180em"  src="https://github-readme-stats.vercel.app/api?username=MariaClDev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+ <img  height = "180em"  src="https://github-readme-stats.vercel.app/api?username=MariaClDev&show_icons=true&theme=jolly&count_private=true"/>
 </div>
 
 
