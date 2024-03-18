@@ -29,6 +29,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
+
 <img src="https://github.com/MariaClDev/MariaClDev/assets/163427241/4f79fcce-a570-4913-9aa8-3b30df0bdbc4" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
@@ -58,6 +59,8 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Adobe](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
 
 &nbsp;
 &nbsp;
