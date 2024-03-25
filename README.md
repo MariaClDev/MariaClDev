@@ -5,7 +5,7 @@
 <h1></h1>
 
 <h4 align="center">I ❤️ solve great challenges using tech. </h4>
-<p align="center"> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center"> Do desenvolvimento frontend, sou apaixonada por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou uma excelente profissional focada em desenvolvimento web.</p>&nbsp;
 
 <h1></h1>
 
