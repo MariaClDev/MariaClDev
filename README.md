@@ -11,6 +11,7 @@
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MariaClDev&show_icons=true&count_private=true&hide_border=true&theme=jolly&icon_color=bc4ed8&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClDev&layout=compact&langs_count=7&theme=jolly&icon_color=bc4ed8&text_color=c9d1d9&bg_color=0d1117"/>
  </div>
 
 
