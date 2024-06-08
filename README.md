@@ -71,7 +71,7 @@
 <div> 
 <a href = "mailto:contato.MariaClDev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mariacldev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://dribbble.com/MariaCl" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor="white"></a> 
+<a href="https://dribbble.com/MariaCl" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a> 
   
 </div>&nbsp;&nbsp;
  
